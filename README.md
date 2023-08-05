@@ -1,7 +1,4 @@
 # Clase4grupo13
 Se creo para hacer actividad de clase 4
-working area :smiling_face_with_three_hearts:
-staging area :smiling_face_with_three_hearts:
-repo :smiling_face_with_three_hearts:
-Untracker :raised_eyebrow: Add :raised_eyebrow: Modified
+Untracker :raised_eyebrow: Add :raised_eyebrow: Modified :raised_eyebrow:
  
